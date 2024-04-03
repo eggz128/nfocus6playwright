@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Apr 03 10:48:26 BST 2024","Wed Apr 03 10:48:52 BST 2024","26625","chromium","assertiondemos.spec.ts","A suite in a file","","","Assertion demos @tag1",""
+"broken","Wed Apr 03 10:48:26 BST 2024","Wed Apr 03 10:48:59 BST 2024","33001","chromium","assertiondemos.spec.ts","A suite in a file > A suite in a suite","","","Waits",""
+"passed","Wed Apr 03 10:48:26 BST 2024","Wed Apr 03 10:48:48 BST 2024","22103","chromium","assertiondemos.spec.ts","A suite in a file > A suite in a suite","","","Generic methods",""

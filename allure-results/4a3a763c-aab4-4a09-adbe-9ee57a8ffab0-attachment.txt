@@ -1,0 +1,2 @@
+Starting tests
+Finished all tests
